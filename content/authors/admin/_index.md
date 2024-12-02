@@ -6,12 +6,12 @@ title: Alfredo Alvarado
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alfredo
+last_name: Alvarado Enciso
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤗
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research and policy economist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: PUCP
+    url: https://www.pucp.edu.pe
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,22 +34,20 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/alfredoman
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alfredoalvaradoenciso
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alfredoalvaradoenciso/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=rx8u5OEAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Labor markets and informality
+  - Productivity
+  - Policy impact evaluation
 
 education:
   - area: PhD Artificial Intelligence
