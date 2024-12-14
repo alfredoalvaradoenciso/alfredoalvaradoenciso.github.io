@@ -56,8 +56,8 @@ education:
     date_end: 2020-12-31
   - area: BSc (and Lic) in Economics
     institution: Pontifical Catholic University of Peru
-    date_start: 2016-01-01
-    date_end: 2010-12-31
+    date_start: 2010-07-01
+    date_end: 2015-12-31
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research and policy economist. I work for the Pontifical Catholic University of Peru and for the International Monetary Fund. I have designed national policies, generated evidence for policymaking, and conducted research with significant media impact. Additionally, I have worked in the public sector in Peru, focusing on private sector development, labor, and education. At the Inter-American Development Bank, I supported research on labor and human capital issues and contributed to impact evaluation projects. Also, I ensured the quality of analytical reports and lending operations aimed at promoting inclusive green growth at the World Bank.
