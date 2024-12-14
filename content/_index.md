@@ -30,18 +30,22 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+- block: markdown
+    id: media
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      title: Recent Media
+      subtitle: <a href='/media/'>See all media appearances</a>
+      text: <ul><li><a href='https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/'> Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos</a>.</li>
+        <li><a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.</li>
+        <li><a href='http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/'> El rompecabezas de la informalidad</a>.</li></ul>
+      filters:
+        folders:
+          - media
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: list
   - block: collection
     id: papers
     content:
