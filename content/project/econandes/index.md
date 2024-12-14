@@ -1,6 +1,7 @@
 ---
 title: EconAndes
 summary: Economía Antirracista y Decolonial en el Sur, espacio de jóvenes economistas dispuestxs a ampliar el debate académico y las políticas públicas.
+show_date: false
 date: 2022-01-01
 tags:
   - Econandes
