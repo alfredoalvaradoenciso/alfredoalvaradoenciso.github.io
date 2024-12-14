@@ -57,6 +57,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 3
       filters:
         folders:
           - publication
