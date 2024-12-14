@@ -35,13 +35,15 @@ sections:
     content:
       title: Recent Media
       # subtitle: <a href='/media/'>_See all media appearances_</a>
-      subtitle: 'See all media appearances'
+      subtitle: See all media appearances'
       text: <ul><li><a href='https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/'> Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos</a>.</li>
         <li><a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.</li>
         <li><a href='http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/'> El rompecabezas de la informalidad</a>.</li></ul>
       filters:
         folders:
           - media
+    design:
+      view: list
   - block: collection
     content:
       title: Featured Publications
