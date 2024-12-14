@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-- block: markdown
+  - block: markdown
     id: media
     content:
       title: Recent Media
