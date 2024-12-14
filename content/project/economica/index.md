@@ -4,7 +4,6 @@ summary: Co-founder and active alumni at Economica, an organization that promote
 tags:
   - Economica
   - Revista
-date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://economica.pe/
