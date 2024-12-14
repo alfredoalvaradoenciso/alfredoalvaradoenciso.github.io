@@ -1,7 +1,7 @@
 ---
 title: Economica
 summary: Co-founder and active alumni at Economica, an organization that promotes the dissemination of Peruvian economic current issues through posts, interviews, podcasts, virtual and printed magazines and social media content.
-date: 2014
+date: 2014-01-01
 tags:
   - Economica
   - Revista
