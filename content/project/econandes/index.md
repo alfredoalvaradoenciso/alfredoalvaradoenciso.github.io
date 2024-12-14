@@ -4,7 +4,6 @@ summary: Economía Antirracista y Decolonial en el Sur, espacio de jóvenes econ
 tags:
   - Econandes
   - Antiracismo
-date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://twitter.com/EconAndes
