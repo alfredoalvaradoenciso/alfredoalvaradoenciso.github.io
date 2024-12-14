@@ -37,12 +37,10 @@ sections:
       text: <ul><li><a href='https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/'> Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos</a>.</li>
         <li><a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.</li>
         <li><a href='http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/'> El rompecabezas de la informalidad</a>.</li></ul>
-         {{< cta cta_text="See all media appearances" cta_link="/media/" cta_new_tab="false" >}}
+         <p align="center"> {{< cta cta_text="See all media appearances" cta_link="/media/" cta_new_tab="false" >}} </p>
       filters:
         folders:
           - media
-    design:
-      view: list
   - block: collection
     id: papers
     content:
