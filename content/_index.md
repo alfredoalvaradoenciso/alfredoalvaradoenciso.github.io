@@ -44,8 +44,6 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
-      view: list
   - block: collection
     id: papers
     content:
