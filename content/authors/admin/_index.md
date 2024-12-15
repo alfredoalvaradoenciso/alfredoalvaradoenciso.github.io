@@ -43,6 +43,8 @@ profiles:
     url: https://scholar.google.com/citations?user=rx8u5OEAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7070-0641
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/alfredoman.bsky.social
 
 interests:
   - Labor markets and informality
