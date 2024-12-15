@@ -61,33 +61,4 @@ sections:
             <p>{{< icon name="brands/linkedin" >}} <a href=https://www.linkedin.com/in/alfredoalvaradoenciso/> DM me on LinkedIn</a></p>
             <p>{{< icon name="brands/bluesky" >}} <a href=https://bsky.app/profile/alfredoman.bsky.social> DM me on Bluesky</a></p>
             <p>{{< icon name="brands/x" >}} <a href=https://x.com/alfredoman/> DM me on X</a></p>'
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 ---
