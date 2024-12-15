@@ -57,7 +57,7 @@ sections:
     content:
       title: Contact Me
       text:
-      {{< icon name="hero/envelope" >}} alvaradoencisoa@gmail.com
+       {{< icon name="hero/envelope" >}} alvaradoencisoa@gmail.com
   - block: collection
     id: news
     content:
