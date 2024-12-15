@@ -12,7 +12,10 @@ main:
     weight: 11
   - name: Media
     url: /#media
-    weight: 20
+    weight: 12
   - name: Teaching
     url: teaching/
-    weight: 40
+    weight: 13
+  - name: Contact
+    url: /#contact
+    weight: 14
