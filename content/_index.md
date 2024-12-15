@@ -56,9 +56,9 @@ sections:
     id: contact
     content:
       title: Contact Me
-      text: '<p>{{< icon name="hero/envelope" >}} alvaradoencisoa@gmail.com </p>
-            <p>{{< icon name="hero/map-pin" >}} Washington, DC </p>
-            <p>{{< icon name="brands/linkedin" >}} <a href=https://www.linkedin.com/in/alfredoalvaradoenciso/> DM me on LinkedIn</a></p>
-            <p>{{< icon name="brands/bluesky" >}} <a href=https://bsky.app/profile/alfredoman.bsky.social> DM me on Bluesky</a></p>
-            <p>{{< icon name="brands/x" >}} <a href=https://x.com/alfredoman/> DM me on X</a></p>'
+      text: '<p>{{< icon name="hero/envelope" padding_right="3" >}} alvaradoencisoa@gmail.com </p>
+            <p>{{< icon name="hero/map-pin" padding_right="3" >}} Washington, DC </p>
+            <p>{{< icon name="brands/linkedin" padding_right="3" >}} <a href=https://www.linkedin.com/in/alfredoalvaradoenciso/> DM me on LinkedIn</a></p>
+            <p>{{< icon name="brands/bluesky" padding_right="3" >}} <a href=https://bsky.app/profile/alfredoman.bsky.social> DM me on Bluesky</a></p>
+            <p>{{< icon name="brands/x" padding_right="3" >}} <a href=https://x.com/alfredoman/> DM me on X</a></p>'
 ---
