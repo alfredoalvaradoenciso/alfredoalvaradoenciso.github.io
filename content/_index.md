@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: media
     content:
-      title: Recent Media
+      title: Recent Media2
       text:
       - <a href='https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/'> Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos</a>.
       - <a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.
