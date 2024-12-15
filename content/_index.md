@@ -52,6 +52,11 @@ sections:
       filters:
         folders:
           - media
+  - block: markdown
+    id: contact
+    content:
+      title: Contact Me
+      text: alvaradoencisoa@gmail.com
   - block: collection
     id: news
     content:
