@@ -81,6 +81,26 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: alvaradoencisoa@gmail.com
+      address:
+        city: Washington
+        region: DC
+        country: United States
+        country_code: US
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/alfredoman'
+      # Automatically link email and phone or display as text?
+      autolink: true
+    design:
+      columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
