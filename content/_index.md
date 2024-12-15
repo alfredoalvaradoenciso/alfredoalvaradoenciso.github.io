@@ -60,7 +60,7 @@ sections:
             <p>{{< icon name="hero/map-pin" >}} Washington, DC </p>
             <p>{{< icon name="brands/linkedin" >}} <a href=https://www.linkedin.com/in/alfredoalvaradoenciso/> DM me on LinkedIn</a></p>
             <p>{{< icon name="brands/bluesky" >}} <a href=https://bsky.app/profile/alfredoman.bsky.social> DM me on Bluesky</a></p>
-            <p>{{< icon name="brands/twitter" >}} <a href=https://x.com/alfredoman/> DM me on X</a></p>'
+            <p>{{< icon name="brands/x" >}} <a href=https://x.com/alfredoman/> DM me on X</a></p>'
   - block: collection
     id: news
     content:
