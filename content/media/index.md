@@ -1,5 +1,7 @@
 # Media
-## Contributions to public policy debates
+## Contributions to public policy discussion
+- [¿Cómo se debe determinar el salario mínimo en Perú?](https://x.com/alfredoman/status/1861127240878002324)
+
 - [Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos](https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/)
 
 - [Sunafil: estrategia disminuye el incumplimiento de los derechos laborales](https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx).
