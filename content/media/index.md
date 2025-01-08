@@ -1,6 +1,6 @@
 # Media
 ## Contributions to public policy discussion
-- [¿Cómo se debe determinar el salario mínimo en Perú?](https://x.com/alfredoman/status/1861127240878002324)
+- [¿Cómo se debe determinar el salario mínimo en Perú?](https://threadreaderapp.com/thread/1861127240878002324.html)
 
 - [Una reforma tributaria para que los que tienen mayores rentas paguen mas impuestos](https://larazon.pe/una-reforma-tributaria-para-que-los-que-tienen-mayores-rentas-paguen-mas-impuestos/)
 
